@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://yovogucece.pages.dev/sitemap.xml
